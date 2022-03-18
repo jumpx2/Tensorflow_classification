@@ -13,3 +13,4 @@ velog : https://velog.io/@jumpx2/Tensorflow%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C
     
     
 Data : https://www.kaggle.com/salmaneunus/railway-track-fault-detection
+- 기차레일에 손상을 사진으로 분류하는 작업을 진행했습니다.
